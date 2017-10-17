@@ -1,0 +1,26 @@
+{
+  "name": "doitnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeonilJang/DoitNodeJS_lecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeonilJang/DoitNodeJS_lecture/issues"
+  },
+  "homepage": "https://github.com/GeonilJang/DoitNodeJS_lecture#readme",
+  "dependencies": {
+    "module": "^1.2.5",
+    "moment": "^2.19.1",
+    "supervisor": "^0.12.0",
+    "winston": "^2.4.0",
+    "winston-daily-rotate-file": "^1.7.2"
+  }
+}
